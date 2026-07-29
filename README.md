@@ -65,7 +65,7 @@ Para probar la aplicación usa las siguientes credenciales:
    ```bash
    git clone https://github.com/SmileChazz/Alke-wallet.git
    ```
-2. Abre el archivo `login.html` en tu navegador.
+2. Abre el archivo `index.html` en tu navegador, clickeando iniciar sesión te redirigira al login.
 3. Inicia sesión con las credenciales indicadas arriba.
 
 No requiere instalación de dependencias ni servidor backend.
@@ -74,12 +74,12 @@ No requiere instalación de dependencias ni servidor backend.
 
 ## Ramas del proyecto
 
-| Rama | Descripción |
-|------|-------------|
-| `master` | Código estable |
-| `feature/login` | Funcionalidad de inicio de sesión |
-| `feature/depositos` | Gestión de saldo y depósitos |
-| `feature/transacciones` | Envío, recepción e historial de movimientos |
+| Rama                            | Descripción |
+|---------------------------------|---------------------------------------|
+| `master`                        | Código estable |
+| `feature/login`                 | Funcionalidad de inicio de sesión |
+| `feature/depositos`             | Gestión de saldo y depósitos |
+| `feature/transacciones`         | Envío, recepción e historial de movimientos |
 
 ---
 
